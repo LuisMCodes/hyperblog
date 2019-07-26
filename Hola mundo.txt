@@ -1,7 +1,5 @@
-Hola mundo.
+Versión 4.
 
-Esta es una prueba de mi primer repositorio y commit.
+Prueba del repositorio Master en Git.
 
-Luis Fernando Morales Bernal.
-
-Versión 3, actual.
+@Author: Luis Morales Bernal.
