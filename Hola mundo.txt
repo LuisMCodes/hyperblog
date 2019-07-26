@@ -2,4 +2,6 @@ Hola mundo.
 
 Esta es una prueba de mi primer repositorio y commit.
 
-Versión 2.
+Luis Fernando Morales Bernal.
+
+Versión 3, actual.
