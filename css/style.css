@@ -31,14 +31,14 @@ body{
 }
 #Pie{
 	background: #33A;
-	color: red;
+	color: gray;
 	box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
 	font-weight: bold;
 	margin: 0;
 	padding: 0.5em;
 }
 #Pie a{
-	font-size: 10px;
+	font-size: 20px;
 	color: white;
 }
 #Pie #Footer{
