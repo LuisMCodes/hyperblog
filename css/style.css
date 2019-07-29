@@ -9,7 +9,7 @@ body{
 #cabecera{
 	background: #33A;
 	color: white;
-	box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+	box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);
 	font-weight: bold;
 	margin: 0;
 	padding: 0.5em;
@@ -32,7 +32,7 @@ body{
 #Pie{
 	background: #33A;
 	color: white;
-	box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+	box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);
 	font-weight: bold;
 	margin: 0;
 	padding: 0.5em;
@@ -45,4 +45,7 @@ body{
 	padding: 0 0 0 1em;
 	font-weight: normal;
 	font-size: 0.8em;
+}
+#Pie #Footer .space_iz_sn{
+	margin-left: 160px;
 }
