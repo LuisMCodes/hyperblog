@@ -2,4 +2,6 @@ Versión 4.
 
 Prueba del repositorio Master en Git.
 
+@Colaboró: Gema Morales Bernal
+
 @Author: Luis Morales Bernal.
