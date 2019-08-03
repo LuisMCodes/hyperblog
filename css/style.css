@@ -38,6 +38,12 @@ body{
     background: white;
     padding: 1em;
 }
+#post #imgsGit{
+	text-align: center;
+}
+#post #imgsGit .align{
+	margin-bottom: 5px;
+}
 #Pie{
 	background: #333;
 	text-align: center;
