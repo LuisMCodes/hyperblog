@@ -1,5 +1,5 @@
-# **Hyperblog** :tw-1f312:
-Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi").	:tw-1f680:
+# **Hyperblog** 🌒
+Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi").	🚀
 
 #### En este curso vemos:
 *	Todos los comandos de Git.
