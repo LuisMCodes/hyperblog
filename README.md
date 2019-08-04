@@ -7,6 +7,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 *	El verdadero amor por las buenas prácticas.
 *	Trucos muy locos del profesor.
 *	Creado por Luis Morales.
+*	Incluye ejemplos en Windows, Mac y Linux.
+*	Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Es sólo una pruba para prácticar lo aprendido.
 
